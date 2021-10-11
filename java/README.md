@@ -18,6 +18,7 @@ Java language is a high-level language that has the following characteristics:
 - High performance ??
 - Robust ??
 - Secure ??
+
 Explained at: https://www.oracle.com/java/technologies/introduction-to-java.html#943
 
 **Java is A Platform.** 
